@@ -1,1 +1,3 @@
-# keras-learn-test
+# Deep Learning実践開発講座（DL4US）の勉強用のリポジトリ
+
+適当に自分なりの解説を書いて勉強する
